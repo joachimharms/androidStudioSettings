@@ -30,20 +30,20 @@
         <entry key="'Strg+Alt+Umschalt+T'" value="2" />
         <entry key="'Strg+Alt+Umschalt+W'" value="1" />
         <entry key="'Strg+Alt+Y'" value="11" />
-        <entry key="'Strg+C' or 'Strg+Einfg'" value="21" />
+        <entry key="'Strg+C' or 'Strg+Einfg'" value="23" />
         <entry key="'Strg+F2'" value="2" />
         <entry key="'Strg+F4'" value="1" />
         <entry key="'Strg+F5'" value="67" />
-        <entry key="'Strg+F9'" value="1" />
+        <entry key="'Strg+F9'" value="3" />
         <entry key="'Strg+O'" value="6" />
         <entry key="'Strg+Pause' or 'Strg+Umschalt+P'" value="2" />
         <entry key="'Strg+Q'" value="1" />
         <entry key="'Strg+S'" value="22" />
         <entry key="'Strg+Umschalt+C'" value="2" />
-        <entry key="'Strg+V' or 'Umschalt+Einfg'" value="5" />
+        <entry key="'Strg+V' or 'Umschalt+Einfg'" value="6" />
         <entry key="'Strg+X' or 'Umschalt+Löschen'" value="3" />
         <entry key="'Umschalt+F11' or 'Strg+Umschalt+F8'" value="2" />
-        <entry key="'Umschalt+F5'" value="17" />
+        <entry key="'Umschalt+F5'" value="18" />
       </map>
     </option>
   </component>
