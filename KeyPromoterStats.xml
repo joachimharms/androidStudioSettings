@@ -40,8 +40,8 @@
         <entry key="'Strg+Q'" value="1" />
         <entry key="'Strg+S'" value="22" />
         <entry key="'Strg+Umschalt+C'" value="2" />
-        <entry key="'Strg+V' or 'Umschalt+Einfg'" value="9" />
-        <entry key="'Strg+X' or 'Umschalt+Löschen'" value="5" />
+        <entry key="'Strg+V' or 'Umschalt+Einfg'" value="10" />
+        <entry key="'Strg+X' or 'Umschalt+Löschen'" value="6" />
         <entry key="'Umschalt+F11' or 'Strg+Umschalt+F8'" value="2" />
         <entry key="'Umschalt+F5'" value="18" />
       </map>
