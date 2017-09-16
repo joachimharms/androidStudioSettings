@@ -11,11 +11,12 @@
       <file name="E:/MeineDateien_HP/2.Dev/2.PrivateProjects/Android/Miwok-App/app/src/main/java/com/example/android/miwok/NumbersClickListener.java" timestamp="1505252031308">
         <mark key="[" line="9" column="66" />
       </file>
-      <file name="E:/2.Dev/2.PrivateProjects/Android/ud839_Miwok-Starter-code/app/src/main/java/com/example/android/miwok/MainActivity.java" timestamp="1505237062742">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="^" line="39" column="3" />
-        <mark key="." line="39" column="0" />
+      <file name="E:/2.Dev/2.PrivateProjects/Android/ud839_Miwok-Starter-code/app/src/main/java/com/example/android/miwok/MainActivity.java" timestamp="1505575634516">
+        <mark key="'" line="70" column="0" />
+        <mark key="[" line="47" column="8" />
+        <mark key="]" line="47" column="7" />
+        <mark key="^" line="47" column="7" />
+        <mark key="." line="47" column="7" />
       </file>
       <file name="E:/MeineDateien_HP/2.Dev/2.PrivateProjects/Android/Miwok-App/app/src/main/java/com/example/android/miwok/NumberActivity.java" timestamp="1505250211515">
         <mark key="[" line="12" column="27" />
@@ -27,10 +28,25 @@
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="26" column="27" filename="E:/2.Dev/2.PrivateProjects/Android/ud839_Miwok-Starter-code/app/src/main/java/com/example/android/miwok/MainActivity.java" />
+      <jump line="39" column="0" filename="E:/2.Dev/2.PrivateProjects/Android/ud839_Miwok-Starter-code/app/src/main/java/com/example/android/miwok/MainActivity.java" />
+    </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>t</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBGaW5kIHRoZSBWaWV3IHRoYXQgc2hvd3MgdGhlIEZhbWlseSBtZW1iZXJzIGNhdGVnb3J5Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">cHVibGljIGNsYXNzIE1haW5BY3Rpdml0eSBleHRlbmRzIEFwcENvbXBhdEFjdGl2aXR5IHsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQud2lkZ2V0LlRleHRWaWV3Owo=</text>
       </register>
       <register name="-" type="4">
         <text>t</text>
@@ -49,6 +65,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
