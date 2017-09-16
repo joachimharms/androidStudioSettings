@@ -29,11 +29,11 @@
       <file name="/fragment.java" timestamp="1505249608649">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/2.Dev/2.PrivateProjects/Android/ud839_Miwok-Starter-code/app/src/main/java/com/example/android/miwok/NumberActivity.java" timestamp="1505586417177">
-        <mark key="[" line="36" column="57" />
-        <mark key="]" line="36" column="58" />
-        <mark key="^" line="39" column="0" />
-        <mark key="." line="36" column="58" />
+      <file name="E:/2.Dev/2.PrivateProjects/Android/ud839_Miwok-Starter-code/app/src/main/java/com/example/android/miwok/NumberActivity.java" timestamp="1505596229902">
+        <mark key="[" line="21" column="18" />
+        <mark key="]" line="21" column="23" />
+        <mark key="^" line="21" column="7" />
+        <mark key="." line="21" column="18" />
       </file>
     </filemarks>
     <jumps>
@@ -43,32 +43,39 @@
       <jump line="69" column="8" filename="E:/2.Dev/2.PrivateProjects/Android/ud839_Miwok-Starter-code/app/src/main/java/com/example/android/miwok/MainActivity.java" />
     </jumps>
     <registers>
+      <register name="0" type="4">
+        <text>words</text>
+      </register>
       <register name="1" type="4">
-        <text encoding="base64">YmUKICAgICAgICA=</text>
+        <text>words.add(&quot;one&quot;);
+        words.add(&quot;two&quot;);</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">YmUKICAgICAgICA=</text>
+        <text>words</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8L2FjdGl2aXR5Pgo=</text>
+        <text encoding="base64">CiAgICAgICB9Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">U3RyaW5nW10gbnVtYmVyc0FycmF5ID0gbmV3IFN0cmluZ1sxMF07CiAgICAgICAgbnVtYmVyc0FycmF5WzBdID0gIm9uZSI7CiAgICAgICAgbnVtYmVyc0FycmF5WzFdID0gInR3byI7CiAgICAgICAgbnVtYmVyc0FycmF5WzJdID0gInRocmVlIjsKICAgICAgICBudW1iZXJzQXJyYXlbM10gPSAiZm91ciI7CiAgICAgICAgbnVtYmVyc0FycmF5WzRdID0gImZpdmUiOwogICAgICAgIG51bWJlcnNBcnJheVs1XSA9ICJzaXgiOwogICAgICAgIG51bWJlcnNBcnJheVs2XSA9ICJzZXZlbiI7CiAgICAgICAgbnVtYmVyc0FycmF5WzddID0gImVpZ2h0IjsKICAgICAgICBudW1iZXJzQXJyYXlbOF0gPSAibmluZSI7CiAgICAgICAgbnVtYmVyc0FycmF5WzldID0gInRlbiI7CgogICAgICAgIExvZy52KCJOdW1iZXJBY3Rpdml0eSIsICJDb250ZW50IG9mIG51bWJlcnNBcnJheVswXTogIiArIG51bWJlcnNBcnJheVswXSk7CiAgICAgICAgTG9nLnYoIk51bWJlckFjdGl2aXR5IiwgIkNvbnRlbnQgb2YgbnVtYmVyc0FycmF5WzFdOiAiICsgbnVtYmVyc0FycmF5WzFdKTsKICAgICAgICBMb2cudigiTnVtYmVyQWN0aXZpdHkiLCAiQ29udGVudCBvZiBudW1iZXJzQXJyYXlbMl06ICIgKyBudW1iZXJzQXJyYXlbMl0pOwogICAgICAgIExvZy52KCJOdW1iZXJBY3Rpdml0eSIsICJDb250ZW50IG9mIG51bWJlcnNBcnJheVszXTogIiArIG51bWJlcnNBcnJheVszXSk7CiAgICAgICAgTG9nLnYoIk51bWJlckFjdGl2aXR5IiwgIkNvbnRlbnQgb2YgbnVtYmVyc0FycmF5WzRdOiAiICsgbnVtYmVyc0FycmF5WzRdKTsKICAgICAgICBMb2cudigiTnVtYmVyQWN0aXZpdHkiLCAiQ29udGVudCBvZiBudW1iZXJzQXJyYXlbNV06ICIgKyBudW1iZXJzQXJyYXlbNV0pOwogICAgICAgIExvZy52KCJOdW1iZXJBY3Rpdml0eSIsICJDb250ZW50IG9mIG51bWJlcnNBcnJheVs2XTogIiArIG51bWJlcnNBcnJheVs2XSk7CiAgICAgICAgTG9nLnYoIk51bWJlckFjdGl2aXR5IiwgIkNvbnRlbnQgb2YgbnVtYmVyc0FycmF5WzddOiAiICsgbnVtYmVyc0FycmF5WzddKTsKICAgICAgICBMb2cudigiTnVtYmVyQWN0aXZpdHkiLCAiQ29udGVudCBvZiBudW1iZXJzQXJyYXlbOF06ICIgKyBudW1iZXJzQXJyYXlbOF0pOwogICAgICAgIExvZy52KCJOdW1iZXJBY3Rpdml0eSIsICJDb250ZW50IG9mIG51bWJlcnNBcnJheVs5XTogIiArIG51bWJlcnNBcnJheVs5XSk7CiA=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="4" type="4">
+        <text encoding="base64">YmUKICAgICAgICA=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L2FjdGl2aXR5Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBGaW5kIHRoZSBWaWV3IHRoYXQgc2hvd3MgdGhlIEZhbWlseSBtZW1iZXJzIGNhdGVnb3J5Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIE1haW5BY3Rpdml0eSBleHRlbmRzIEFwcENvbXBhdEFjdGl2aXR5IHsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQud2lkZ2V0LlRleHRWaWV3Owo=</text>
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBGaW5kIHRoZSBWaWV3IHRoYXQgc2hvd3MgdGhlIEZhbWlseSBtZW1iZXJzIGNhdGVnb3J5Cg==</text>
       </register>
       <register name="-" type="4">
         <text>four</text>
