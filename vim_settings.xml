@@ -29,11 +29,12 @@
       <file name="/fragment.java" timestamp="1505249608649">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/2.Dev/2.PrivateProjects/Android/ud839_Miwok-Starter-code/app/src/main/java/com/example/android/miwok/NumberActivity.java" timestamp="1505596229902">
-        <mark key="[" line="21" column="18" />
-        <mark key="]" line="21" column="23" />
-        <mark key="^" line="21" column="7" />
-        <mark key="." line="21" column="18" />
+      <file name="E:/2.Dev/2.PrivateProjects/Android/ud839_Miwok-Starter-code/app/src/main/java/com/example/android/miwok/NumberActivity.java" timestamp="1505597112887">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="37" column="69" />
+        <mark key="]" line="37" column="70" />
+        <mark key="^" line="39" column="51" />
+        <mark key="." line="37" column="70" />
       </file>
     </filemarks>
     <jumps>
@@ -41,17 +42,19 @@
       <jump line="39" column="0" filename="E:/2.Dev/2.PrivateProjects/Android/ud839_Miwok-Starter-code/app/src/main/java/com/example/android/miwok/MainActivity.java" />
       <jump line="46" column="7" filename="E:/2.Dev/2.PrivateProjects/Android/ud839_Miwok-Starter-code/app/src/main/java/com/example/android/miwok/MainActivity.java" />
       <jump line="69" column="8" filename="E:/2.Dev/2.PrivateProjects/Android/ud839_Miwok-Starter-code/app/src/main/java/com/example/android/miwok/MainActivity.java" />
+      <jump line="21" column="26" filename="E:/2.Dev/2.PrivateProjects/Android/ud839_Miwok-Starter-code/app/src/main/java/com/example/android/miwok/NumberActivity.java" />
+      <jump line="0" column="0" filename="E:/2.Dev/2.PrivateProjects/Android/ud839_Miwok-Starter-code/app/src/main/java/com/example/android/miwok/NumberActivity.java" />
     </jumps>
     <registers>
       <register name="0" type="4">
-        <text>words</text>
+        <text>Log.v(&quot;NumberActivity&quot;, &quot;Content of words idex 0: &quot; + words.get(0));</text>
       </register>
       <register name="1" type="4">
         <text>words.add(&quot;one&quot;);
         words.add(&quot;two&quot;);</text>
       </register>
       <register name="&quot;" type="4">
-        <text>words</text>
+        <text>Log.v(&quot;NumberActivity&quot;, &quot;Content of words idex 0: &quot; + words.get(0));</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">CiAgICAgICB9Cg==</text>
@@ -100,6 +103,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
