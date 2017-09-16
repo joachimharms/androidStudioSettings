@@ -11,12 +11,12 @@
       <file name="E:/MeineDateien_HP/2.Dev/2.PrivateProjects/Android/Miwok-App/app/src/main/java/com/example/android/miwok/NumbersClickListener.java" timestamp="1505252031308">
         <mark key="[" line="9" column="66" />
       </file>
-      <file name="E:/2.Dev/2.PrivateProjects/Android/ud839_Miwok-Starter-code/app/src/main/java/com/example/android/miwok/MainActivity.java" timestamp="1505575634516">
-        <mark key="'" line="70" column="0" />
-        <mark key="[" line="47" column="8" />
-        <mark key="]" line="47" column="7" />
-        <mark key="^" line="47" column="7" />
-        <mark key="." line="47" column="7" />
+      <file name="E:/2.Dev/2.PrivateProjects/Android/ud839_Miwok-Starter-code/app/src/main/java/com/example/android/miwok/MainActivity.java" timestamp="1505576792769">
+        <mark key="'" line="69" column="8" />
+        <mark key="[" line="80" column="10" />
+        <mark key="]" line="80" column="8" />
+        <mark key="^" line="80" column="8" />
+        <mark key="." line="80" column="8" />
       </file>
       <file name="E:/MeineDateien_HP/2.Dev/2.PrivateProjects/Android/Miwok-App/app/src/main/java/com/example/android/miwok/NumberActivity.java" timestamp="1505250211515">
         <mark key="[" line="12" column="27" />
@@ -31,25 +31,33 @@
     <jumps>
       <jump line="26" column="27" filename="E:/2.Dev/2.PrivateProjects/Android/ud839_Miwok-Starter-code/app/src/main/java/com/example/android/miwok/MainActivity.java" />
       <jump line="39" column="0" filename="E:/2.Dev/2.PrivateProjects/Android/ud839_Miwok-Starter-code/app/src/main/java/com/example/android/miwok/MainActivity.java" />
+      <jump line="46" column="7" filename="E:/2.Dev/2.PrivateProjects/Android/ud839_Miwok-Starter-code/app/src/main/java/com/example/android/miwok/MainActivity.java" />
+      <jump line="69" column="8" filename="E:/2.Dev/2.PrivateProjects/Android/ud839_Miwok-Starter-code/app/src/main/java/com/example/android/miwok/MainActivity.java" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBGaW5kIHRoZSBWaWV3IHRoYXQgc2hvd3MgdGhlIEZhbWlseSBtZW1iZXJzIGNhdGVnb3J5Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIE1haW5BY3Rpdml0eSBleHRlbmRzIEFwcENvbXBhdEFjdGl2aXR5IHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBGaW5kIHRoZSBWaWV3IHRoYXQgc2hvd3MgdGhlIEZhbWlseSBtZW1iZXJzIGNhdGVnb3J5Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">cHVibGljIGNsYXNzIE1haW5BY3Rpdml0eSBleHRlbmRzIEFwcENvbXBhdEFjdGl2aXR5IHsK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">aW1wb3J0IGFuZHJvaWQud2lkZ2V0LlRleHRWaWV3Owo=</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>;</text>
       </register>
     </registers>
     <search>
