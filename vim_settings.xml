@@ -8,12 +8,12 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="E:/2.Dev/2.PrivateProjects/Android/ud839_Miwok-Starter-code/app/src/main/java/com/example/android/miwok/NumberActivity.java" timestamp="1505658295782">
+      <file name="E:/2.Dev/2.PrivateProjects/Android/ud839_Miwok-Starter-code/app/src/main/java/com/example/android/miwok/NumberActivity.java" timestamp="1505659559551">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="^" line="53" column="7" />
-        <mark key="." line="58" column="0" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="^" line="56" column="0" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="E:/2.Dev/2.PrivateProjects/Android/ud839_Miwok-Starter-code/app/src/main/res/layout/activity_number.xml" timestamp="1505656170319">
         <mark key="'" line="12" column="0" />
@@ -32,20 +32,29 @@
         <text encoding="base64">ICAgICAgICAgIFRleHRWaWV3IHdvcmRzVmlldzEgPSBuZXcgVGV4dFZpZXcodGhpcyk7CiAgICAgICAgd29yZHNWaWV3MS5zZXRUZXh0KHdvcmRzLmdldCgxKSk7CiAgICAgICAgcm9vdFZpZXcuYWRkVmlldyh3b3Jkc1ZpZXcxKTs=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Ly8gICAgICAgZm9yIChpbnQgaSA9IDA7IGludCBpID0gd29yZHMuc2l6ZSgpIC0gMTsgaSsrKXsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBqdXN0IGEgc3R1cGlkIGNvbW1lbnQK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="5" type="4">
         <text>foreach(word in words){
             wordsView.setText(item);
         }</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOm9uQ2xpY2s9Im9wZW5OdW1iZXJzTGlzdCIK</text>
       </register>
       <register name="-" type="4">
