@@ -2,14 +2,68 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
-    <jumps />
-    <registers />
+    <filemarks>
+      <file name="E:/2.Dev/2.PrivateProjects/Android/ud839_Miwok-Starter-code/app/src/main/res/layout/activity_main.xml" timestamp="1505655882659">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
+      <file name="E:/2.Dev/2.PrivateProjects/Android/ud839_Miwok-Starter-code/app/src/main/java/com/example/android/miwok/NumberActivity.java" timestamp="1505658295782">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="^" line="53" column="7" />
+        <mark key="." line="58" column="0" />
+      </file>
+      <file name="E:/2.Dev/2.PrivateProjects/Android/ud839_Miwok-Starter-code/app/src/main/res/layout/activity_number.xml" timestamp="1505656170319">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="2" column="55" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="9" column="0" filename="E:/2.Dev/2.PrivateProjects/Android/ud839_Miwok-Starter-code/app/src/main/res/layout/activity_number.xml" />
+      <jump line="53" column="0" filename="E:/2.Dev/2.PrivateProjects/Android/ud839_Miwok-Starter-code/app/src/main/java/com/example/android/miwok/NumberActivity.java" />
+      <jump line="0" column="0" filename="E:/2.Dev/2.PrivateProjects/Android/ud839_Miwok-Starter-code/app/src/main/java/com/example/android/miwok/NumberActivity.java" />
+    </jumps>
+    <registers>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICAgIFRleHRWaWV3IHdvcmRzVmlldzEgPSBuZXcgVGV4dFZpZXcodGhpcyk7CiAgICAgICAgd29yZHNWaWV3MS5zZXRUZXh0KHdvcmRzLmdldCgxKSk7CiAgICAgICAgcm9vdFZpZXcuYWRkVmlldyh3b3Jkc1ZpZXcxKTs=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="2" type="4">
+        <text>foreach(word in words){
+            wordsView.setText(item);
+        }</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOm9uQ2xpY2s9Im9wZW5OdW1iZXJzTGlzdCIK</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">aXRlbSA=</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history />
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
