@@ -12,23 +12,38 @@
         <mark key="^" line="39" column="3" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="E:/MeineDateien_HP/2.Dev/2.PrivateProjects/Android/Miwok-App/app/src/main/java/com/example/android/miwok/NumberActivity.java" timestamp="1505250211515">
-        <mark key="[" line="43" column="27" />
-        <mark key="]" line="43" column="3" />
-        <mark key="^" line="43" column="3" />
-        <mark key="." line="43" column="3" />
+      <file name="E:/MeineDateien_HP/2.Dev/2.PrivateProjects/Android/Miwok-App/app/src/main/java/com/example/android/miwok/NumberActivity.java" timestamp="1505623867069">
+        <mark key="[" line="46" column="20" />
+        <mark key="]" line="46" column="15" />
+        <mark key="^" line="46" column="15" />
+        <mark key="." line="46" column="15" />
       </file>
       <file name="/fragment.java" timestamp="1505249608649">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="E:/MeineDateien_HP/2.Dev/2.PrivateProjects/Android/Miwok-App/app/src/main/res/layout/activity_number.xml" timestamp="1505622654009">
+        <mark key="[" line="7" column="34" />
+        <mark key="]" line="8" column="28" />
+        <mark key="." line="8" column="28" />
+        <mark key="^" line="8" column="28" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
+      <register name="0" type="4">
+        <text encoding="base64">IExpbmVhckxheW91dCBsaW5lYXJMYXlvdXQgPSAoTGluZWFyTGF5b3V0KSBmaW5kVmlld0J5SWQoUi5pZC5yb290Vmlldyk7IA==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBUZXh0VmlldyB0ZXh0VmlldyA9IG5ldyBUZXh0VmlldygpOwo=</text>
+      </register>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text encoding="base64">bGluZWFyTGF5b3V0IA==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgYW5kcm9pZC5zdXBwb3J0LmNvbnN0cmFpbnQuQ29uc3RyYWludExheW91dAo=</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text encoding="base64">bGluZWFyTGF5b3V0IA==</text>
       </register>
     </registers>
     <search>
@@ -44,6 +59,12 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
