@@ -8,12 +8,12 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="E:/2.Dev/2.PrivateProjects/Android/ud839_Miwok-Starter-code/app/src/main/java/com/example/android/miwok/NumberActivity.java" timestamp="1505672604055">
+      <file name="E:/2.Dev/2.PrivateProjects/Android/ud839_Miwok-Starter-code/app/src/main/java/com/example/android/miwok/NumberActivity.java" timestamp="1505673782452">
         <mark key="'" line="55" column="7" />
-        <mark key="[" line="61" column="40" />
-        <mark key="]" line="52" column="1" />
-        <mark key="^" line="52" column="1" />
-        <mark key="." line="52" column="1" />
+        <mark key="[" line="60" column="47" />
+        <mark key="]" line="66" column="0" />
+        <mark key="^" line="66" column="0" />
+        <mark key="." line="66" column="0" />
       </file>
       <file name="E:/2.Dev/2.PrivateProjects/Android/ud839_Miwok-Starter-code/app/src/main/res/layout/activity_number.xml" timestamp="1505656170319">
         <mark key="'" line="12" column="0" />
@@ -35,8 +35,8 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>er</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Ly8gICAgICAgZm9yIChpbnQgaSA9IDA7IGludCBpID0gd29yZHMuc2l6ZSgpIC0gMTsgaSsrKXsK</text>
@@ -59,7 +59,7 @@
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOm9uQ2xpY2s9Im9wZW5OdW1iZXJzTGlzdCIK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aXRlbSA=</text>
+        <text>er</text>
       </register>
     </registers>
     <search>
