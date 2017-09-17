@@ -2,111 +2,14 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks>
-      <file name="E:/MeineDateien_HP/2.Dev/2.PrivateProjects/Android/Miwok-App/app/src/main/java/com/example/android/miwok/MainActivity.java" timestamp="1505252232050">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="8" />
-        <mark key="." line="37" column="8" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1505585956076">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="E:/MeineDateien_HP/2.Dev/2.PrivateProjects/Android/Miwok-App/app/src/main/java/com/example/android/miwok/NumbersClickListener.java" timestamp="1505252031308">
-        <mark key="[" line="9" column="66" />
-      </file>
-      <file name="E:/2.Dev/2.PrivateProjects/Android/ud839_Miwok-Starter-code/app/src/main/AndroidManifest.xml" timestamp="1505577532007">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="^" line="31" column="36" />
-        <mark key="." line="43" column="0" />
-      </file>
-      <file name="E:/MeineDateien_HP/2.Dev/2.PrivateProjects/Android/Miwok-App/app/src/main/java/com/example/android/miwok/NumberActivity.java" timestamp="1505250211515">
-        <mark key="[" line="12" column="27" />
-        <mark key="]" line="12" column="3" />
-        <mark key="^" line="12" column="3" />
-        <mark key="." line="12" column="3" />
-      </file>
-      <file name="/fragment.java" timestamp="1505249608649">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="E:/2.Dev/2.PrivateProjects/Android/ud839_Miwok-Starter-code/app/src/main/java/com/example/android/miwok/NumberActivity.java" timestamp="1505597112887">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="37" column="69" />
-        <mark key="]" line="37" column="70" />
-        <mark key="^" line="39" column="51" />
-        <mark key="." line="37" column="70" />
-      </file>
-    </filemarks>
-    <jumps>
-      <jump line="26" column="27" filename="E:/2.Dev/2.PrivateProjects/Android/ud839_Miwok-Starter-code/app/src/main/java/com/example/android/miwok/MainActivity.java" />
-      <jump line="39" column="0" filename="E:/2.Dev/2.PrivateProjects/Android/ud839_Miwok-Starter-code/app/src/main/java/com/example/android/miwok/MainActivity.java" />
-      <jump line="46" column="7" filename="E:/2.Dev/2.PrivateProjects/Android/ud839_Miwok-Starter-code/app/src/main/java/com/example/android/miwok/MainActivity.java" />
-      <jump line="69" column="8" filename="E:/2.Dev/2.PrivateProjects/Android/ud839_Miwok-Starter-code/app/src/main/java/com/example/android/miwok/MainActivity.java" />
-      <jump line="21" column="26" filename="E:/2.Dev/2.PrivateProjects/Android/ud839_Miwok-Starter-code/app/src/main/java/com/example/android/miwok/NumberActivity.java" />
-      <jump line="0" column="0" filename="E:/2.Dev/2.PrivateProjects/Android/ud839_Miwok-Starter-code/app/src/main/java/com/example/android/miwok/NumberActivity.java" />
-    </jumps>
-    <registers>
-      <register name="0" type="4">
-        <text>Log.v(&quot;NumberActivity&quot;, &quot;Content of words idex 0: &quot; + words.get(0));</text>
-      </register>
-      <register name="1" type="4">
-        <text>words.add(&quot;one&quot;);
-        words.add(&quot;two&quot;);</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>Log.v(&quot;NumberActivity&quot;, &quot;Content of words idex 0: &quot; + words.get(0));</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICB9Cg==</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">U3RyaW5nW10gbnVtYmVyc0FycmF5ID0gbmV3IFN0cmluZ1sxMF07CiAgICAgICAgbnVtYmVyc0FycmF5WzBdID0gIm9uZSI7CiAgICAgICAgbnVtYmVyc0FycmF5WzFdID0gInR3byI7CiAgICAgICAgbnVtYmVyc0FycmF5WzJdID0gInRocmVlIjsKICAgICAgICBudW1iZXJzQXJyYXlbM10gPSAiZm91ciI7CiAgICAgICAgbnVtYmVyc0FycmF5WzRdID0gImZpdmUiOwogICAgICAgIG51bWJlcnNBcnJheVs1XSA9ICJzaXgiOwogICAgICAgIG51bWJlcnNBcnJheVs2XSA9ICJzZXZlbiI7CiAgICAgICAgbnVtYmVyc0FycmF5WzddID0gImVpZ2h0IjsKICAgICAgICBudW1iZXJzQXJyYXlbOF0gPSAibmluZSI7CiAgICAgICAgbnVtYmVyc0FycmF5WzldID0gInRlbiI7CgogICAgICAgIExvZy52KCJOdW1iZXJBY3Rpdml0eSIsICJDb250ZW50IG9mIG51bWJlcnNBcnJheVswXTogIiArIG51bWJlcnNBcnJheVswXSk7CiAgICAgICAgTG9nLnYoIk51bWJlckFjdGl2aXR5IiwgIkNvbnRlbnQgb2YgbnVtYmVyc0FycmF5WzFdOiAiICsgbnVtYmVyc0FycmF5WzFdKTsKICAgICAgICBMb2cudigiTnVtYmVyQWN0aXZpdHkiLCAiQ29udGVudCBvZiBudW1iZXJzQXJyYXlbMl06ICIgKyBudW1iZXJzQXJyYXlbMl0pOwogICAgICAgIExvZy52KCJOdW1iZXJBY3Rpdml0eSIsICJDb250ZW50IG9mIG51bWJlcnNBcnJheVszXTogIiArIG51bWJlcnNBcnJheVszXSk7CiAgICAgICAgTG9nLnYoIk51bWJlckFjdGl2aXR5IiwgIkNvbnRlbnQgb2YgbnVtYmVyc0FycmF5WzRdOiAiICsgbnVtYmVyc0FycmF5WzRdKTsKICAgICAgICBMb2cudigiTnVtYmVyQWN0aXZpdHkiLCAiQ29udGVudCBvZiBudW1iZXJzQXJyYXlbNV06ICIgKyBudW1iZXJzQXJyYXlbNV0pOwogICAgICAgIExvZy52KCJOdW1iZXJBY3Rpdml0eSIsICJDb250ZW50IG9mIG51bWJlcnNBcnJheVs2XTogIiArIG51bWJlcnNBcnJheVs2XSk7CiAgICAgICAgTG9nLnYoIk51bWJlckFjdGl2aXR5IiwgIkNvbnRlbnQgb2YgbnVtYmVyc0FycmF5WzddOiAiICsgbnVtYmVyc0FycmF5WzddKTsKICAgICAgICBMb2cudigiTnVtYmVyQWN0aXZpdHkiLCAiQ29udGVudCBvZiBudW1iZXJzQXJyYXlbOF06ICIgKyBudW1iZXJzQXJyYXlbOF0pOwogICAgICAgIExvZy52KCJOdW1iZXJBY3Rpdml0eSIsICJDb250ZW50IG9mIG51bWJlcnNBcnJheVs5XTogIiArIG51bWJlcnNBcnJheVs5XSk7CiA=</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">YmUKICAgICAgICA=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8L2FjdGl2aXR5Pgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBGaW5kIHRoZSBWaWV3IHRoYXQgc2hvd3MgdGhlIEZhbWlseSBtZW1iZXJzIGNhdGVnb3J5Cg==</text>
-      </register>
-      <register name="-" type="4">
-        <text>four</text>
-      </register>
-    </registers>
+    <filemarks />
+    <jumps />
+    <registers />
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history>
-      <history-search />
-      <history-cmd />
-      <history-expr />
-      <history-input />
-    </history>
-    <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed T</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed V</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed C</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed S</text>
-      </shortcut-conflict>
-    </shortcut-conflicts>
+    <history />
+    <shortcut-conflicts />
   </component>
 </application>
