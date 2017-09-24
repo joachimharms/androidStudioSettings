@@ -3,26 +3,52 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="E:/2.Dev/2.PrivateProjects/Android/ud839_Miwok-Starter-code/app/src/main/java/com/example/android/miwok/NumberActivity.java" timestamp="1506213872519">
-        <mark key="'" line="23" column="24" />
-        <mark key="[" line="17" column="56" />
-        <mark key="]" line="17" column="55" />
-        <mark key="^" line="17" column="55" />
-        <mark key="." line="17" column="55" />
+      <file name="E:/MeineDateien_HP/2.Dev/2.PrivateProjects/Android/Miwok-App/app/src/main/java/com/example/android/miwok/NumbersClickListener.java" timestamp="1505252031308">
+        <mark key="[" line="9" column="66" />
+      </file>
+      <file name="E:/2.Dev/2.PrivateProjects/Android/ud839_Miwok-Starter-code/app/src/main/java/com/example/android/miwok/MainActivity.java" timestamp="1505237062742">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="^" line="39" column="3" />
+        <mark key="." line="39" column="0" />
+      </file>
+      <file name="E:/MeineDateien_HP/2.Dev/2.PrivateProjects/Android/Miwok-App/app/src/main/java/com/example/android/miwok/NumberActivity.java" timestamp="1505624216232">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1505249608649">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/MeineDateien_HP/2.Dev/2.PrivateProjects/Android/Miwok-App/app/src/main/res/layout/activity_number.xml" timestamp="1505622654009">
+        <mark key="[" line="7" column="34" />
+        <mark key="]" line="8" column="28" />
+        <mark key="." line="8" column="28" />
+        <mark key="^" line="8" column="28" />
       </file>
     </filemarks>
-    <jumps>
-      <jump line="38" column="53" filename="E:/2.Dev/2.PrivateProjects/Android/ud839_Miwok-Starter-code/app/src/main/java/com/example/android/miwok/NumberActivity.java" />
-      <jump line="39" column="0" filename="E:/2.Dev/2.PrivateProjects/Android/ud839_Miwok-Starter-code/app/src/main/java/com/example/android/miwok/NumberActivity.java" />
-      <jump line="55" column="0" filename="E:/2.Dev/2.PrivateProjects/Android/ud839_Miwok-Starter-code/app/src/main/java/com/example/android/miwok/NumberActivity.java" />
-      <jump line="68" column="0" filename="E:/2.Dev/2.PrivateProjects/Android/ud839_Miwok-Starter-code/app/src/main/java/com/example/android/miwok/NumberActivity.java" />
-      <jump line="0" column="0" filename="E:/2.Dev/2.PrivateProjects/Android/ud839_Miwok-Starter-code/app/src/main/java/com/example/android/miwok/NumberActivity.java" />
-      <jump line="16" column="4" filename="E:/2.Dev/2.PrivateProjects/Android/ud839_Miwok-Starter-code/app/src/main/java/com/example/android/miwok/NumberActivity.java" />
-      <jump line="32" column="0" filename="E:/2.Dev/2.PrivateProjects/Android/ud839_Miwok-Starter-code/app/src/main/java/com/example/android/miwok/NumberActivity.java" />
-      <jump line="24" column="8" filename="E:/2.Dev/2.PrivateProjects/Android/ud839_Miwok-Starter-code/app/src/main/java/com/example/android/miwok/NumberActivity.java" />
-      <jump line="23" column="24" filename="E:/2.Dev/2.PrivateProjects/Android/ud839_Miwok-Starter-code/app/src/main/java/com/example/android/miwok/NumberActivity.java" />
-    </jumps>
-    <registers />
+    <jumps />
+    <registers>
+      <register name="0" type="4">
+        <text encoding="base64">IExpbmVhckxheW91dCBsaW5lYXJMYXlvdXQgPSAoTGluZWFyTGF5b3V0KSBmaW5kVmlld0J5SWQoUi5pZC5yb290Vmlldyk7IA==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICB3b3Jkcy5zZXQoMCwgIm9uZSIpOwogICAgICAgIG51bWJlcnNBcnJheVsxXSA9ICJ0d28iOwo=</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB3b3Jkcy5zZXQoMCwgIm9uZSIpOwogICAgICAgIG51bWJlcnNBcnJheVsxXSA9ICJ0d28iOwo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBUZXh0VmlldyB0ZXh0VmlldyA9IG5ldyBUZXh0VmlldygpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgYW5kcm9pZC5zdXBwb3J0LmNvbnN0cmFpbnQuQ29uc3RyYWludExheW91dAo=</text>
+      </register>
+      <register name="-" type="4">
+        <text>numbersArray</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
@@ -35,16 +61,13 @@
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed E</text>
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed Y</text>
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed B</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed F</text>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
