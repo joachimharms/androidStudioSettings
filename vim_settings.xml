@@ -6,6 +6,9 @@
       <file name="E:/MeineDateien_HP/2.Dev/2.PrivateProjects/Android/Miwok-App/app/src/main/java/com/example/android/miwok/NumbersClickListener.java" timestamp="1505252031308">
         <mark key="[" line="9" column="66" />
       </file>
+      <file name="/a.dummy" timestamp="1506727477922">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="E:/2.Dev/2.PrivateProjects/Android/ud839_Miwok-Starter-code/app/src/main/java/com/example/android/miwok/MainActivity.java" timestamp="1505237062742">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
@@ -21,8 +24,8 @@
       <file name="/fragment.java" timestamp="1505249608649">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/2.Dev/2.PrivateProjects/Android/ud839_Miwok-Starter-code/app/src/main/java/com/example/android/miwok/NumberActivity.java" timestamp="1506216174952">
-        <mark key="'" line="68" column="0" />
+      <file name="E:/2.Dev/2.PrivateProjects/Android/ud839_Miwok-Starter-code/app/src/main/java/com/example/android/miwok/NumberActivity.java" timestamp="1506727472852">
+        <mark key="'" line="10" column="30" />
       </file>
       <file name="E:/MeineDateien_HP/2.Dev/2.PrivateProjects/Android/Miwok-App/app/src/main/res/layout/activity_number.xml" timestamp="1505622654009">
         <mark key="[" line="7" column="34" />
@@ -35,6 +38,7 @@
       <jump line="41" column="45" filename="E:/2.Dev/2.PrivateProjects/Android/ud839_Miwok-Starter-code/app/src/main/java/com/example/android/miwok/NumberActivity.java" />
       <jump line="62" column="12" filename="E:/2.Dev/2.PrivateProjects/Android/ud839_Miwok-Starter-code/app/src/main/java/com/example/android/miwok/NumberActivity.java" />
       <jump line="68" column="0" filename="E:/2.Dev/2.PrivateProjects/Android/ud839_Miwok-Starter-code/app/src/main/java/com/example/android/miwok/NumberActivity.java" />
+      <jump line="10" column="30" filename="E:/2.Dev/2.PrivateProjects/Android/ud839_Miwok-Starter-code/app/src/main/java/com/example/android/miwok/NumberActivity.java" />
     </jumps>
     <registers>
       <register name="0" type="4">
@@ -52,17 +56,32 @@
       <register name="3" type="2">
         <text encoding="base64">ICAgYW5kcm9pZC5zdXBwb3J0LmNvbnN0cmFpbnQuQ29uc3RyYWludExheW91dAo=</text>
       </register>
+      <register name=":" type="4">
+        <text>%s/words/gords/gc</text>
+      </register>
       <register name="-" type="4">
         <text>numbersArray</text>
       </register>
+      <register name="/" type="4">
+        <text>words</text>
+      </register>
     </registers>
     <search>
+      <last-search>words</last-search>
+      <last-pattern>words</last-pattern>
+      <last-replace>gords</last-replace>
+      <last-substitute>words</last-substitute>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
-      <history-cmd />
+      <history-search>
+        <entry>words</entry>
+      </history-search>
+      <history-cmd>
+        <entry>s/words/bords/gc</entry>
+        <entry>%s/words/gords/gc</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>

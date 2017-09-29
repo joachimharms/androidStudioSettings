@@ -1,0 +1,6 @@
+<keymap version="1" name="Visual Studio copy 2" parent="Visual Studio">
+  <action id="Resume" />
+  <action id="Servers.DeployWithDebug">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
+</keymap>
