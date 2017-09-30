@@ -9,6 +9,13 @@
       <file name="/a.dummy" timestamp="1506727477922">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/CookiesAusRepoMuell/Cookies/app/src/main/java/com/example/android/cookies/MainActivity.java" timestamp="1506772283585">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="29" column="0" />
+      </file>
       <file name="E:/2.Dev/2.PrivateProjects/Android/ud839_Miwok-Starter-code/app/src/main/java/com/example/android/miwok/MainActivity.java" timestamp="1505237062742">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
@@ -39,6 +46,8 @@
       <jump line="62" column="12" filename="E:/2.Dev/2.PrivateProjects/Android/ud839_Miwok-Starter-code/app/src/main/java/com/example/android/miwok/NumberActivity.java" />
       <jump line="68" column="0" filename="E:/2.Dev/2.PrivateProjects/Android/ud839_Miwok-Starter-code/app/src/main/java/com/example/android/miwok/NumberActivity.java" />
       <jump line="10" column="30" filename="E:/2.Dev/2.PrivateProjects/Android/ud839_Miwok-Starter-code/app/src/main/java/com/example/android/miwok/NumberActivity.java" />
+      <jump line="23" column="37" filename="$USER_HOME$/Desktop/CookiesAusRepoMuell/Cookies/app/src/main/java/com/example/android/cookies/MainActivity.java" />
+      <jump line="30" column="0" filename="$USER_HOME$/Desktop/CookiesAusRepoMuell/Cookies/app/src/main/java/com/example/android/cookies/MainActivity.java" />
     </jumps>
     <registers>
       <register name="0" type="4">
@@ -97,6 +106,15 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
