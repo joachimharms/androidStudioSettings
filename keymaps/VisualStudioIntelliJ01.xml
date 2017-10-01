@@ -10,6 +10,7 @@
   </action>
   <action id="CIDR.Lang.ObjC.IntroduceIvar" />
   <action id="CheckinProject" />
+  <action id="CloseActiveTab" />
   <action id="CodeGlance.toggle" />
   <action id="CollapseRegion">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
@@ -116,6 +117,9 @@
     <keyboard-shortcut first-keystroke="ctrl f5" />
   </action>
   <action id="RunToCursor" />
+  <action id="Runner.CloseAllUnpinnedViews">
+    <keyboard-shortcut first-keystroke="shift ctrl f4" />
+  </action>
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
@@ -133,9 +137,6 @@
     <keyboard-shortcut first-keystroke="shift f5" />
   </action>
   <action id="SurroundWith" />
-  <action id="SwitchApply">
-    <keyboard-shortcut first-keystroke="shift alt enter" />
-  </action>
   <action id="SwitchDown">
     <keyboard-shortcut first-keystroke="shift alt down" />
   </action>
@@ -150,6 +151,9 @@
   </action>
   <action id="ToggleBookmark">
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl k" />
+  </action>
+  <action id="ToggleDistractionFreeMode">
+    <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
   <action id="ToggleLineBreakpoint">
     <keyboard-shortcut first-keystroke="f9" />
