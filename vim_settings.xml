@@ -28,7 +28,12 @@
         <mark key="^" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="E:/2.Dev/2.PrivateProjects/Android/JustJava/app/src/main/java/com/example/android/justjava/MainActivity.java" timestamp="1506855329452" />
+      <file name="E:/2.Dev/2.PrivateProjects/Android/JustJava/app/src/main/java/com/example/android/justjava/MainActivity.java" timestamp="1506858885919">
+        <mark key="[" line="78" column="3" />
+        <mark key="]" line="78" column="3" />
+        <mark key="^" line="75" column="5" />
+        <mark key="." line="78" column="3" />
+      </file>
       <file name="/fragment.java" timestamp="1505249608649">
         <mark key="[" line="0" column="0" />
       </file>
@@ -60,8 +65,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB3b3Jkcy5zZXQoMCwgIm9uZSIpOwogICAgICAgIG51bWJlcnNBcnJheVsxXSA9ICJ0d28iOwo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB3b3Jkcy5zZXQoMCwgIm9uZSIpOwogICAgICAgIG51bWJlcnNBcnJheVsxXSA9ICJ0d28iOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">YmxhIA==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBUZXh0VmlldyB0ZXh0VmlldyA9IG5ldyBUZXh0VmlldygpOwo=</text>
@@ -73,7 +78,7 @@
         <text>%s/words/gords/gc</text>
       </register>
       <register name="-" type="4">
-        <text>numbersArray</text>
+        <text encoding="base64">YmxhIA==</text>
       </register>
       <register name="/" type="4">
         <text>words</text>
