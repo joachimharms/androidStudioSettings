@@ -26,6 +26,9 @@
   <action id="EditBreakpoint">
     <keyboard-shortcut first-keystroke="alt f9" />
   </action>
+  <action id="FileChooser.NewFolder">
+    <keyboard-shortcut first-keystroke="alt insert" />
+  </action>
   <action id="FindUsagesInFile" />
   <action id="ForceStepInto">
     <keyboard-shortcut first-keystroke="shift alt f11" />
@@ -33,6 +36,8 @@
   <action id="GoToMenu">
     <keyboard-shortcut first-keystroke="shift ctrl g" />
   </action>
+  <action id="GotoChangedFile" />
+  <action id="GotoClass" />
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="control button1" />
     <mouse-shortcut keystroke="button2" />
@@ -92,6 +97,9 @@
     <keyboard-shortcut first-keystroke="ctrl f5" />
   </action>
   <action id="RunToCursor" />
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
   <action id="ShowBookmarks" />
   <action id="StepInto">
     <keyboard-shortcut first-keystroke="f11" />

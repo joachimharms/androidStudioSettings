@@ -25,13 +25,14 @@
         <entry key="'Strg+1'" value="1" />
         <entry key="'Strg+2'" value="3" />
         <entry key="'Strg+Alt+A'" value="1" />
+        <entry key="'Strg+Alt+Button1 Click' or 'Strg+B'" value="4" />
         <entry key="'Strg+Alt+I'" value="1" />
         <entry key="'Strg+Alt+L'" value="1" />
-        <entry key="'Strg+Alt+S'" value="8" />
+        <entry key="'Strg+Alt+S'" value="11" />
         <entry key="'Strg+Alt+Umschalt+S'" value="7" />
         <entry key="'Strg+Alt+Umschalt+T'" value="2" />
         <entry key="'Strg+Alt+Umschalt+W'" value="1" />
-        <entry key="'Strg+Alt+Y'" value="20" />
+        <entry key="'Strg+Alt+Y'" value="21" />
         <entry key="'Strg+C' or 'Strg+Einfg'" value="31" />
         <entry key="'Strg+F2'" value="4" />
         <entry key="'Strg+F4'" value="1" />
@@ -41,6 +42,7 @@
         <entry key="'Strg+Pause' or 'Strg+Umschalt+P'" value="2" />
         <entry key="'Strg+Q'" value="1" />
         <entry key="'Strg+S'" value="23" />
+        <entry key="'Strg+Umschalt+B' or 'Strg+Umschalt+Button1 Click' or 'Alt+Umschalt+F12' or 'Alt+Umschalt+F2'" value="1" />
         <entry key="'Strg+Umschalt+C'" value="2" />
         <entry key="'Strg+Umschalt+F10'" value="1" />
         <entry key="'Strg+V' or 'Umschalt+Einfg'" value="10" />
