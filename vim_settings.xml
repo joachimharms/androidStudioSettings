@@ -28,6 +28,9 @@
         <mark key="^" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="E:/2.Dev/2.PrivateProjects/Android/JustJava/app/src/main/java/com/example/android/justjava/MainActivity.java" timestamp="1506843324518">
+        <mark key="'" line="48" column="24" />
+      </file>
       <file name="/fragment.java" timestamp="1505249608649">
         <mark key="[" line="0" column="0" />
       </file>
@@ -49,6 +52,7 @@
       <jump line="23" column="37" filename="$USER_HOME$/Desktop/CookiesAusRepoMuell/Cookies/app/src/main/java/com/example/android/cookies/MainActivity.java" />
       <jump line="30" column="0" filename="$USER_HOME$/Desktop/CookiesAusRepoMuell/Cookies/app/src/main/java/com/example/android/cookies/MainActivity.java" />
       <jump line="31" column="0" filename="$USER_HOME$/Desktop/CookiesAusRepoMuell/Cookies/app/src/main/java/com/example/android/cookies/MainActivity.java" />
+      <jump line="48" column="24" filename="E:/2.Dev/2.PrivateProjects/Android/JustJava/app/src/main/java/com/example/android/justjava/MainActivity.java" />
     </jumps>
     <registers>
       <register name="0" type="4">
