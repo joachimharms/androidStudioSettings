@@ -2,7 +2,9 @@
   <action id="ActivateAndroidMonitorToolWindow">
     <keyboard-shortcut first-keystroke="alt 6" />
   </action>
-  <action id="ActivateTODOToolWindow" />
+  <action id="ActivateTODOToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl alt period" />
+  </action>
   <action id="ActivateTerminalToolWindow" />
   <action id="Android.CleanRun" />
   <action id="BuildMenu">
@@ -51,6 +53,7 @@
   </action>
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
+  <action id="GotoCustomRegion" />
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="control button1" />
     <mouse-shortcut keystroke="button2" />
@@ -111,6 +114,10 @@
     <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
   <action id="ReplaceInPath" />
+  <action id="RerunTests">
+    <keyboard-shortcut first-keystroke="shift alt r" />
+    <keyboard-shortcut first-keystroke="ctrl t" second-keystroke="ctrl r" />
+  </action>
   <action id="RestoreDefaultLayout" />
   <action id="Resume" />
   <action id="Run">
@@ -166,6 +173,7 @@
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
+  <action id="Vcs.UpdateProject" />
   <action id="ViewBreakpoints">
     <keyboard-shortcut first-keystroke="alt f9" />
   </action>
