@@ -3,17 +3,20 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="E:/2.Dev/2.PrivateProjects/Android/ud839_Miwok-Starter-code/app/src/main/java/com/example/android/miwok/ColorsActivity.java" timestamp="1507454265049">
+        <mark key="[" line="10" column="49" />
+      </file>
       <file name="E:/MeineDateien_HP/2.Dev/2.PrivateProjects/Android/Miwok-App/app/src/main/java/com/example/android/miwok/NumbersClickListener.java" timestamp="1505252031308">
         <mark key="[" line="9" column="66" />
       </file>
-      <file name="/a.dummy" timestamp="1506727477922">
+      <file name="/a.dummy" timestamp="1507462752658">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/CookiesAusRepoMuell/Cookies/app/src/main/java/com/example/android/cookies/MainActivity.java" timestamp="1506777032896">
+      <file name="$USER_HOME$/Desktop/CookiesAusRepoMuell/Cookies/app/src/main/java/com/example/android/cookies/MainActivity.java" timestamp="1507461709900">
         <mark key="'" line="34" column="0" />
-        <mark key="[" line="15" column="6" />
-        <mark key="]" line="15" column="7" />
-        <mark key="." line="15" column="7" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
         <mark key="^" line="33" column="0" />
       </file>
       <file name="E:/2.Dev/2.PrivateProjects/Android/ud839_Miwok-Starter-code/app/src/main/java/com/example/android/miwok/MainActivity.java" timestamp="1505237062742">
@@ -28,7 +31,7 @@
         <mark key="^" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="E:/2.Dev/2.PrivateProjects/Android/JustJava/app/src/main/java/com/example/android/justjava/MainActivity.java" timestamp="1507062441445">
+      <file name="E:/2.Dev/2.PrivateProjects/Android/JustJava/app/src/main/java/com/example/android/justjava/MainActivity.java" timestamp="1507462014479">
         <mark key="[" line="78" column="3" />
         <mark key="]" line="78" column="3" />
         <mark key="^" line="75" column="5" />
@@ -37,8 +40,12 @@
       <file name="/fragment.java" timestamp="1505249608649">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/2.Dev/2.PrivateProjects/Android/ud839_Miwok-Starter-code/app/src/main/java/com/example/android/miwok/NumberActivity.java" timestamp="1506728824238">
+      <file name="E:/2.Dev/2.PrivateProjects/Android/ud839_Miwok-Starter-code/app/src/main/java/com/example/android/miwok/NumberActivity.java" timestamp="1507463792938">
         <mark key="'" line="10" column="30" />
+        <mark key="[" line="31" column="25" />
+        <mark key="]" line="47" column="1" />
+        <mark key="^" line="31" column="10" />
+        <mark key="." line="47" column="1" />
       </file>
       <file name="E:/MeineDateien_HP/2.Dev/2.PrivateProjects/Android/Miwok-App/app/src/main/res/layout/activity_number.xml" timestamp="1505622654009">
         <mark key="[" line="7" column="34" />
@@ -57,6 +64,7 @@
       <jump line="31" column="0" filename="$USER_HOME$/Desktop/CookiesAusRepoMuell/Cookies/app/src/main/java/com/example/android/cookies/MainActivity.java" />
       <jump line="48" column="24" filename="E:/2.Dev/2.PrivateProjects/Android/JustJava/app/src/main/java/com/example/android/justjava/MainActivity.java" />
       <jump line="111" column="4" filename="E:/2.Dev/2.PrivateProjects/Android/JustJava/app/src/main/java/com/example/android/justjava/MainActivity.java" />
+      <jump line="40" column="39" filename="C:/Program Files (x86)/Android/sdk/sources/android-23/java/util/ArrayList.java" />
     </jumps>
     <registers>
       <register name="0" type="4">
@@ -145,6 +153,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
