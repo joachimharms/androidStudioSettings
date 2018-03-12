@@ -1,7 +1,0 @@
-<keymap version="1" name="Visual Studio copy 0" parent="Visual Studio">
-  <action id="Debug">
-    <keyboard-shortcut first-keystroke="alt f5" />
-    <keyboard-shortcut first-keystroke="f5" />
-  </action>
-  <action id="Resume" />
-</keymap>

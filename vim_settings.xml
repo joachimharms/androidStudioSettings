@@ -1,0 +1,165 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="E:/2.Dev/2.PrivateProjects/Android/ud839_Miwok-Starter-code/app/src/main/java/com/example/android/miwok/ColorsActivity.java" timestamp="1507454265049">
+        <mark key="[" line="10" column="49" />
+      </file>
+      <file name="E:/MeineDateien_HP/2.Dev/2.PrivateProjects/Android/Miwok-App/app/src/main/java/com/example/android/miwok/NumbersClickListener.java" timestamp="1505252031308">
+        <mark key="[" line="9" column="66" />
+      </file>
+      <file name="/a.dummy" timestamp="1507462752658">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/CookiesAusRepoMuell/Cookies/app/src/main/java/com/example/android/cookies/MainActivity.java" timestamp="1507461709900">
+        <mark key="'" line="34" column="0" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="33" column="0" />
+      </file>
+      <file name="E:/2.Dev/2.PrivateProjects/Android/ud839_Miwok-Starter-code/app/src/main/java/com/example/android/miwok/MainActivity.java" timestamp="1505237062742">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="^" line="39" column="3" />
+        <mark key="." line="39" column="0" />
+      </file>
+      <file name="E:/MeineDateien_HP/2.Dev/2.PrivateProjects/Android/Miwok-App/app/src/main/java/com/example/android/miwok/NumberActivity.java" timestamp="1507476458959">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
+      <file name="E:/2.Dev/2.PrivateProjects/Android/JustJava/app/src/main/java/com/example/android/justjava/MainActivity.java" timestamp="1507462014479">
+        <mark key="[" line="78" column="3" />
+        <mark key="]" line="78" column="3" />
+        <mark key="^" line="75" column="5" />
+        <mark key="." line="78" column="3" />
+      </file>
+      <file name="/fragment.java" timestamp="1505249608649">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/2.Dev/2.PrivateProjects/Android/ud839_Miwok-Starter-code/app/src/main/java/com/example/android/miwok/NumberActivity.java" timestamp="1507465326199">
+        <mark key="'" line="10" column="30" />
+        <mark key="[" line="31" column="25" />
+        <mark key="]" line="47" column="1" />
+        <mark key="^" line="31" column="10" />
+        <mark key="." line="47" column="1" />
+      </file>
+      <file name="E:/MeineDateien_HP/2.Dev/2.PrivateProjects/Android/Miwok-App/app/src/main/res/layout/activity_number.xml" timestamp="1505622654009">
+        <mark key="[" line="7" column="34" />
+        <mark key="]" line="8" column="28" />
+        <mark key="." line="8" column="28" />
+        <mark key="^" line="8" column="28" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="41" column="45" filename="E:/2.Dev/2.PrivateProjects/Android/ud839_Miwok-Starter-code/app/src/main/java/com/example/android/miwok/NumberActivity.java" />
+      <jump line="62" column="12" filename="E:/2.Dev/2.PrivateProjects/Android/ud839_Miwok-Starter-code/app/src/main/java/com/example/android/miwok/NumberActivity.java" />
+      <jump line="68" column="0" filename="E:/2.Dev/2.PrivateProjects/Android/ud839_Miwok-Starter-code/app/src/main/java/com/example/android/miwok/NumberActivity.java" />
+      <jump line="10" column="30" filename="E:/2.Dev/2.PrivateProjects/Android/ud839_Miwok-Starter-code/app/src/main/java/com/example/android/miwok/NumberActivity.java" />
+      <jump line="23" column="37" filename="$USER_HOME$/Desktop/CookiesAusRepoMuell/Cookies/app/src/main/java/com/example/android/cookies/MainActivity.java" />
+      <jump line="30" column="0" filename="$USER_HOME$/Desktop/CookiesAusRepoMuell/Cookies/app/src/main/java/com/example/android/cookies/MainActivity.java" />
+      <jump line="31" column="0" filename="$USER_HOME$/Desktop/CookiesAusRepoMuell/Cookies/app/src/main/java/com/example/android/cookies/MainActivity.java" />
+      <jump line="48" column="24" filename="E:/2.Dev/2.PrivateProjects/Android/JustJava/app/src/main/java/com/example/android/justjava/MainActivity.java" />
+      <jump line="111" column="4" filename="E:/2.Dev/2.PrivateProjects/Android/JustJava/app/src/main/java/com/example/android/justjava/MainActivity.java" />
+      <jump line="40" column="39" filename="C:/Program Files (x86)/Android/sdk/sources/android-23/java/util/ArrayList.java" />
+    </jumps>
+    <registers>
+      <register name="0" type="4">
+        <text encoding="base64">IExpbmVhckxheW91dCBsaW5lYXJMYXlvdXQgPSAoTGluZWFyTGF5b3V0KSBmaW5kVmlld0J5SWQoUi5pZC5yb290Vmlldyk7IA==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICB3b3Jkcy5zZXQoMCwgIm9uZSIpOwogICAgICAgIG51bWJlcnNBcnJheVsxXSA9ICJ0d28iOwo=</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text encoding="base64">YmxhIA==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBUZXh0VmlldyB0ZXh0VmlldyA9IG5ldyBUZXh0VmlldygpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgYW5kcm9pZC5zdXBwb3J0LmNvbnN0cmFpbnQuQ29uc3RyYWludExheW91dAo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>%s/words/gords/gc</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">YmxhIA==</text>
+      </register>
+      <register name="/" type="4">
+        <text>words</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>words</last-search>
+      <last-pattern>words</last-pattern>
+      <last-replace>gords</last-replace>
+      <last-substitute>words</last-substitute>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>words</entry>
+      </history-search>
+      <history-cmd>
+        <entry>s/words/bords/gc</entry>
+        <entry>%s/words/gords/gc</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
